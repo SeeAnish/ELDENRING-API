@@ -4,7 +4,7 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
 {
   path: '/',
-  component: ComponentCreator('/','deb'),
+  component: ComponentCreator('/','d7d'),
   exact: true,
 },
 {
@@ -19,7 +19,7 @@ export default [
 },
 {
   path: '/__docusaurus/debug/content',
-  component: ComponentCreator('/__docusaurus/debug/content','c28'),
+  component: ComponentCreator('/__docusaurus/debug/content','d12'),
   exact: true,
 },
 {
@@ -44,122 +44,122 @@ export default [
 },
 {
   path: '/blog',
-  component: ComponentCreator('/blog','d90'),
+  component: ComponentCreator('/blog','33d'),
   exact: true,
 },
 {
   path: '/blog/tags',
-  component: ComponentCreator('/blog/tags','a25'),
+  component: ComponentCreator('/blog/tags','929'),
   exact: true,
 },
 {
   path: '/blog/tags/api',
-  component: ComponentCreator('/blog/tags/api','6a1'),
+  component: ComponentCreator('/blog/tags/api','620'),
   exact: true,
 },
 {
   path: '/blog/tags/documentation',
-  component: ComponentCreator('/blog/tags/documentation','ba8'),
+  component: ComponentCreator('/blog/tags/documentation','40d'),
   exact: true,
 },
 {
   path: '/blog/tags/release',
-  component: ComponentCreator('/blog/tags/release','fbc'),
+  component: ComponentCreator('/blog/tags/release','e8e'),
   exact: true,
 },
 {
   path: '/blog/v1-release',
-  component: ComponentCreator('/blog/v1-release','581'),
+  component: ComponentCreator('/blog/v1-release','458'),
   exact: true,
 },
 {
   path: '/docs',
-  component: ComponentCreator('/docs','7be'),
+  component: ComponentCreator('/docs','1d9'),
   
   routes: [
 {
   path: '/docs/',
-  component: ComponentCreator('/docs/','f50'),
+  component: ComponentCreator('/docs/','bc1'),
   exact: true,
 },
 {
   path: '/docs/ammos',
-  component: ComponentCreator('/docs/ammos','d1c'),
+  component: ComponentCreator('/docs/ammos','996'),
   exact: true,
 },
 {
   path: '/docs/armors',
-  component: ComponentCreator('/docs/armors','64f'),
+  component: ComponentCreator('/docs/armors','9fe'),
   exact: true,
 },
 {
   path: '/docs/ashes',
-  component: ComponentCreator('/docs/ashes','310'),
+  component: ComponentCreator('/docs/ashes','48a'),
   exact: true,
 },
 {
   path: '/docs/bosses',
-  component: ComponentCreator('/docs/bosses','e65'),
+  component: ComponentCreator('/docs/bosses','78a'),
   exact: true,
 },
 {
   path: '/docs/classes',
-  component: ComponentCreator('/docs/classes','80c'),
+  component: ComponentCreator('/docs/classes','f09'),
   exact: true,
 },
 {
   path: '/docs/creatures',
-  component: ComponentCreator('/docs/creatures','d60'),
+  component: ComponentCreator('/docs/creatures','e5e'),
   exact: true,
 },
 {
   path: '/docs/graphql',
-  component: ComponentCreator('/docs/graphql','1cc'),
+  component: ComponentCreator('/docs/graphql','2f2'),
   exact: true,
 },
 {
   path: '/docs/incantations',
-  component: ComponentCreator('/docs/incantations','c0f'),
+  component: ComponentCreator('/docs/incantations','51d'),
   exact: true,
 },
 {
   path: '/docs/items',
-  component: ComponentCreator('/docs/items','7b5'),
+  component: ComponentCreator('/docs/items','cfc'),
   exact: true,
 },
 {
   path: '/docs/locations',
-  component: ComponentCreator('/docs/locations','b09'),
+  component: ComponentCreator('/docs/locations','a2a'),
   exact: true,
 },
 {
   path: '/docs/npcs',
-  component: ComponentCreator('/docs/npcs','ff7'),
+  component: ComponentCreator('/docs/npcs','d7f'),
   exact: true,
 },
 {
   path: '/docs/shields',
-  component: ComponentCreator('/docs/shields','a02'),
+  component: ComponentCreator('/docs/shields','c1a'),
   exact: true,
 },
 {
   path: '/docs/sorceries',
-  component: ComponentCreator('/docs/sorceries','c20'),
+  component: ComponentCreator('/docs/sorceries','58e'),
   exact: true,
 },
 {
   path: '/docs/spirits',
-  component: ComponentCreator('/docs/spirits','8d6'),
+  component: ComponentCreator('/docs/spirits','55d'),
   exact: true,
 },
 {
   path: '/docs/talismans',
-  component: ComponentCreator('/docs/talismans','5fa'),
+  component: ComponentCreator('/docs/talismans','37a'),
   exact: true,
 },
 {
   path: '/docs/weapons',
-  component: ComponentCreator('/docs/weapons','13a'),
+  component: ComponentCreator('/docs/weapons','eed'),
   exact: true,
 },
 ]

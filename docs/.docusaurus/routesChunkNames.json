@@ -1,6 +1,6 @@
 {
-  "/-deb": {
-    "component": "component---site-src-pages-index-jsc-4-f-f99",
+  "/-d7d": {
+    "component": "component---site-src-pages-index-jsece-a18",
     "config": "config---5-e-9-4f3"
   },
   "/__docusaurus/debug-3d6": {
@@ -9,9 +9,9 @@
   "/__docusaurus/debug/config-914": {
     "component": "component---theme-debug-config-23-a-2ff"
   },
-  "/__docusaurus/debug/content-c28": {
+  "/__docusaurus/debug/content-d12": {
     "component": "component---theme-debug-contentba-8-ce7",
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+    "allContent": "allContent---docusaurus-debug-content-4-c-9-f03"
   },
   "/__docusaurus/debug/globalData-3cf": {
     "component": "component---theme-debug-global-dataede-0fa"
@@ -25,120 +25,120 @@
   "/__docusaurus/debug/routes-244": {
     "component": "component---theme-debug-routes-946-699"
   },
-  "/blog-d90": {
+  "/blog-33d": {
     "component": "component---theme-blog-list-pagea-6-a-7ba",
     "items": [
       {
-        "content": "content---blog-91-b-97d"
+        "content": "content---blog-051-719"
       }
     ],
-    "metadata": "metadata---blogb-2-b-df1"
+    "metadata": "metadata---blog-5-c-4-506"
   },
-  "/blog/tags-a25": {
+  "/blog/tags-929": {
     "component": "component---theme-blog-tags-list-page-01-a-d0b",
-    "tags": "tags---blog-tagsa-70-da2"
+    "tags": "tags---blog-tags-995-4d3"
   },
-  "/blog/tags/api-6a1": {
+  "/blog/tags/api-620": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
     "items": [
       {
-        "content": "content---blog-91-b-97d"
+        "content": "content---blog-051-719"
       }
     ],
-    "metadata": "metadata---blog-tags-api-6-d-4-e63"
+    "metadata": "metadata---blog-tags-api-96-b-8d1"
   },
-  "/blog/tags/documentation-ba8": {
+  "/blog/tags/documentation-40d": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
     "items": [
       {
-        "content": "content---blog-91-b-97d"
+        "content": "content---blog-051-719"
       }
     ],
-    "metadata": "metadata---blog-tags-documentation-38-f-bce"
+    "metadata": "metadata---blog-tags-documentation-86-c-50a"
   },
-  "/blog/tags/release-fbc": {
+  "/blog/tags/release-e8e": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
     "items": [
       {
-        "content": "content---blog-91-b-97d"
+        "content": "content---blog-051-719"
       }
     ],
-    "metadata": "metadata---blog-tags-release-83-d-f00"
+    "metadata": "metadata---blog-tags-release-89-f-2b4"
   },
-  "/blog/v1-release-581": {
+  "/blog/v1-release-458": {
     "component": "component---theme-blog-post-pageccc-cab",
-    "content": "content---blog-v-1-releasefea-e25"
+    "content": "content---blog-v-1-release-4-fa-539"
   },
-  "/docs-7be": {
+  "/docs-1d9": {
     "component": "component---theme-doc-page-1-be-9be",
-    "versionMetadata": "versionMetadata---docs-935-398"
+    "versionMetadata": "versionMetadata---docsf-97-b71"
   },
-  "/docs/-f50": {
+  "/docs/-bc1": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-98-c-475"
+    "content": "content---docs-619-0d1"
   },
-  "/docs/ammos-d1c": {
+  "/docs/ammos-996": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-ammos-80-b-3d2"
+    "content": "content---docs-ammoseb-6-5a2"
   },
-  "/docs/armors-64f": {
+  "/docs/armors-9fe": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-armors-138-8a2"
+    "content": "content---docs-armorsdd-1-752"
   },
-  "/docs/ashes-310": {
+  "/docs/ashes-48a": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-ashesf-26-0e4"
+    "content": "content---docs-ashesaed-d01"
   },
-  "/docs/bosses-e65": {
+  "/docs/bosses-78a": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-bosses-1-f-9-3cd"
+    "content": "content---docs-bossesf-10-c65"
   },
-  "/docs/classes-80c": {
+  "/docs/classes-f09": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-classes-6-ab-bc0"
+    "content": "content---docs-classesdc-9-ed7"
   },
-  "/docs/creatures-d60": {
+  "/docs/creatures-e5e": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-creatures-08-f-0e1"
+    "content": "content---docs-creatures-300-32b"
   },
-  "/docs/graphql-1cc": {
+  "/docs/graphql-2f2": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-graphql-504-47b"
+    "content": "content---docs-graphql-754-005"
   },
-  "/docs/incantations-c0f": {
+  "/docs/incantations-51d": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-incantationsec-1-017"
+    "content": "content---docs-incantationsaf-6-8c3"
   },
-  "/docs/items-7b5": {
+  "/docs/items-cfc": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-itemscdb-f33"
+    "content": "content---docs-items-713-59a"
   },
-  "/docs/locations-b09": {
+  "/docs/locations-a2a": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-locationsa-2-e-a1a"
+    "content": "content---docs-locationsc-51-f0f"
   },
-  "/docs/npcs-ff7": {
+  "/docs/npcs-d7f": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-npcs-6-bb-5bf"
+    "content": "content---docs-npcs-5-f-9-96a"
   },
-  "/docs/shields-a02": {
+  "/docs/shields-c1a": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-shields-032-eed"
+    "content": "content---docs-shieldsf-14-302"
   },
-  "/docs/sorceries-c20": {
+  "/docs/sorceries-58e": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-sorceries-260-349"
+    "content": "content---docs-sorceriescfe-44c"
   },
-  "/docs/spirits-8d6": {
+  "/docs/spirits-55d": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-spirits-22-f-c25"
+    "content": "content---docs-spirits-3-fa-3b6"
   },
-  "/docs/talismans-5fa": {
+  "/docs/talismans-37a": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-talismans-0-c-2-1bc"
+    "content": "content---docs-talismansc-41-e53"
   },
-  "/docs/weapons-13a": {
+  "/docs/weapons-eed": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-weapons-7-ca-d1e"
+    "content": "content---docs-weapons-361-2b5"
   }
 }

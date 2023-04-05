@@ -11,11 +11,11 @@
   "sidebar_label": "Bosses",
   "sidebar": "someSidebar",
   "previous": {
-    "title": "Monsters Route",
-    "permalink": "/docs/monsters"
+    "title": "Ashes of War Route",
+    "permalink": "/docs/ashes"
   },
   "next": {
-    "title": "Dungeons Route",
-    "permalink": "/docs/dungeons"
+    "title": "Classes Route",
+    "permalink": "/docs/classes"
   }
 }

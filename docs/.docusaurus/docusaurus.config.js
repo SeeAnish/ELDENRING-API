@@ -36,7 +36,7 @@ export default {
     },
     "footer": {
       "style": "dark",
-      "copyright": "This site is not filiate nor funded by FromSoftware. It was made with the sole purpose of fun and knowledge. Elden Ring API 2022. Built with Docusaurus."
+      "copyright": "This site is not filiate nor funded by FromSoftware. It was made with the sole purpose of fun and knowledge. Elden Ring API 2023. Built with Docusaurus."
     },
     "colorMode": {
       "defaultMode": "light",
@@ -56,13 +56,13 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/mnt/c/Users/delit/Documents/codes/deliton/eldenring-api/docs/sidebars.js"
+          "sidebarPath": "C:\\Users\\anish\\OneDrive\\Documents\\GitHub\\ELDENRING-API\\docs\\sidebars.js"
         },
         "blog": {
           "showReadingTime": true
         },
         "theme": {
-          "customCss": "/mnt/c/Users/delit/Documents/codes/deliton/eldenring-api/docs/src/css/custom.css"
+          "customCss": "C:\\Users\\anish\\OneDrive\\Documents\\GitHub\\ELDENRING-API\\docs\\src\\css\\custom.css"
         }
       }
     ]

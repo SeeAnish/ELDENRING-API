@@ -11,11 +11,11 @@
   "sidebar_label": "Items",
   "sidebar": "someSidebar",
   "previous": {
-    "title": "Places Route",
-    "permalink": "/docs/places"
+    "title": "Incantations Route",
+    "permalink": "/docs/incantations"
   },
   "next": {
-    "title": "GraphQL Endpoint",
-    "permalink": "/docs/graphql"
+    "title": "Locations Route",
+    "permalink": "/docs/locations"
   }
 }
